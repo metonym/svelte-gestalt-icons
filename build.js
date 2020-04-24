@@ -6,7 +6,8 @@ const pkg = require("./package.json");
 function build() {
   const { moduleNames } = generateFromFolder(
     "node_modules/gestalt/src/icons",
-    "lib"
+    "lib",
+    { clean: true }
   );
 
   cleanDir("docs");
