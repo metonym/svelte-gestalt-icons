@@ -37,13 +37,6 @@ object-assign@^4.1.1:
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
 
-prettier-plugin-svelte@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-0.7.0.tgz#5ac0b9f194e0450c88ff1e167cbf3b32d2642df2"
-  integrity sha512-SuZSeMh48rx42kCFEpI/xE1XgjxQcS3r22Yo7jIhBYRhwbAa8laNxiIHsfeWWkX8BdyELkEayaTQp4ricckwTQ==
-  dependencies:
-    tslib "^1.9.3"
-
 prettier@1.19.1:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
@@ -78,21 +71,15 @@ svg-parser@^2.0.4:
   resolved "https://registry.yarnpkg.com/svg-parser/-/svg-parser-2.0.4.tgz#fdc2e29e13951736140b76cb122c8ee6630eb6b5"
   integrity sha512-e4hG1hRwoOdRb37cIMSgzNsxyzKfayW6VOflrwvR+/bzrkyxY/31WkbgnQpgtrNp1SdpJvpUAGTa/ZoiPNDuRQ==
 
-svg-to-svelte@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-0.1.0.tgz#041c15fc39329439ca6cd5b5fdca571f4d2366e8"
-  integrity sha512-XgeiqKPW+rqTYEMWsPBq5XOW2mxFVuf0jFR/9QnpLFBJyfpD4+UwpdvRpxuRSmiSIq6AygxIXilrw6I7adIpKQ==
+svg-to-svelte@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-0.1.1.tgz#c33ce8988ce8528b60ca5eea5438cfa328647a3f"
+  integrity sha512-dHvNUb84xKENPa7llign0PoxVwnQNFSF3yXESIec2u5U9lB9qGoqzP9MnTmnz+96UKMbbsJBiOUUABoiOhAhbA==
   dependencies:
     prettier "1.19.1"
-    prettier-plugin-svelte "0.7.0"
     svelte "^3.21.0"
     svg-parser "^2.0.4"
     unist-util-visit "^2.0.2"
-
-tslib@^1.9.3:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.11.1.tgz#eb15d128827fbee2841549e171f45ed338ac7e35"
-  integrity sha512-aZW88SY8kQbU7gpV19lN24LtXh/yD4ZZg6qieAJDDg+YBsJcSmLGK9QpnUjAKVG/xefmvJGd1WUmfpT/g6AJGA==
 
 unist-util-is@^4.0.0:
   version "4.0.2"
