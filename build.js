@@ -3,14 +3,14 @@ const fs = require("fs");
 const path = require("path");
 const pkg = require("./package.json");
 
-function build() {
-  const { moduleNames } = generateFromFolder(
-    "node_modules/gestalt/src/icons",
-    "lib",
-    { clean: true }
-  );
+async function build() {
+  const {
+    moduleNames,
+  } = await generateFromFolder("node_modules/gestalt/src/icons", "lib", {
+    clean: true,
+  });
 
-  cleanDir("docs");
+  await cleanDir("docs");
 
   const docs = [
     "# docs\n",
