@@ -1,6 +1,6 @@
 # docs
 
-> 166 icons from gestalt@1.48.0.
+> 167 icons from gestalt@1.52.0.
 
 ## Usage
 
@@ -150,6 +150,7 @@
 - Sound
 - SpeechEllipsis
 - Speech
+- StarHalf
 - Star
 - StoryPin
 - SwitchAccount
