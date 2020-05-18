@@ -14,7 +14,7 @@
     "svelte": "^3.20.x"
   },
   "devDependencies": {
-    "gestalt": "1.48.0",
+    "gestalt": "1.52.0",
     "svg-to-svelte": "^0.3.8"
   },
   "repository": {
