@@ -1,6 +1,6 @@
 # docs
 
-> 167 icons from gestalt@2.0.1.
+> 168 icons from gestalt@3.0.2.
 
 ## Usage
 
@@ -148,6 +148,7 @@
 - SortAscending
 - SortDescending
 - Sound
+- Sparkle
 - SpeechEllipsis
 - Speech
 - StarHalf
