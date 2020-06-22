@@ -1,6 +1,6 @@
 # docs
 
-> 168 icons from gestalt@3.0.2.
+> 168 icons from gestalt@5.2.3.
 
 ## Usage
 
