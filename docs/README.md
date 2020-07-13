@@ -1,6 +1,6 @@
 # docs
 
-> 168 icons from gestalt@5.2.3.
+> 169 icons from gestalt@5.30.2.
 
 ## Usage
 
@@ -130,6 +130,7 @@
 - Pin
 - Pinterest
 - Play
+- Protect
 - QuestionMark
 - Refresh
 - Remove
