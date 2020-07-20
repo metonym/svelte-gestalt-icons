@@ -12,10 +12,10 @@ classnames@^2.2.6:
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
   integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
 
-gestalt@5.30.2:
-  version "5.30.2"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-5.30.2.tgz#785077be6d5aeb17614de13e62d9807d55b62b54"
-  integrity sha512-tJ2xc7k5O7tWNu0R5g7RWbp1h+keoPWZrAXz7wiQfSh6bRgjMKAq1oNxhwDb9JGjG2qfA/rHYD+UE9nWfru3SQ==
+gestalt@8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-8.0.0.tgz#c56d0cd310e31b2897d280849f2cee4426818e6a"
+  integrity sha512-2Zqvdyw77T9Z4Jfr+2P/wQ4tN2E7dD3r6j2ViWrikuaWnm5plHiA93HSmOxenvhP9E6YmjsCahP0c7kRt8ar0A==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
