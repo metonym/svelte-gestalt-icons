@@ -1,6 +1,6 @@
 # docs
 
-> 169 icons from gestalt@5.30.2.
+> 170 icons from gestalt@11.5.0.
 
 ## Usage
 
@@ -68,6 +68,7 @@
 - DirectionalArrowLeft
 - DirectionalArrowRight
 - Download
+- DragDrop
 - Duplicate
 - Edit
 - EllipsisCircleOutline
