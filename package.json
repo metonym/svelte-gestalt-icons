@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "gestalt": "11.20.0",
-    "svg-to-svelte": "^1.0.0"
+    "svg-to-svelte": "^1.0.1"
   },
   "repository": {
     "type": "git",
