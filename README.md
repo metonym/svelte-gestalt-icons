@@ -9,6 +9,8 @@
 
 ```bash
 yarn add -D svelte-gestalt-icons
+# OR
+npm -i -D svelte-gestalt-icons
 ```
 
 ## Usage
@@ -21,7 +23,7 @@ yarn add -D svelte-gestalt-icons
 <Ad />
 ```
 
-Refer to [docs/README.md](docs/README.md) for a full list of supported icons.
+Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 ## API
 

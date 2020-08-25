@@ -7,10 +7,10 @@ classnames@^2.2.6:
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
   integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
 
-gestalt@11.24.1:
-  version "11.24.1"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-11.24.1.tgz#6082cdd99998d3eae9037b4d684a01918f8d1ff8"
-  integrity sha512-p1NHc1gG2oCYp+Z5PGwNsR6J8AXHNkBrtltcQELpKF0ASdAwCte/C+4kS0nMJ6AG9bxEQCTlSLvXWcdsc4DbOA==
+gestalt@11.26.1:
+  version "11.26.1"
+  resolved "https://registry.npmjs.org/gestalt/-/gestalt-11.26.1.tgz#b9cb13865a5404c528dfecd46e388eeaed9f7377"
+  integrity sha512-Q/3MThnqaN84VeNaiGzMoMgdMWlzuCVOvOMwpzi8UwC9jmDMS/0kQNY0/1ehmYSMSAZDaYURDbdErrFBRb5J4Q==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
@@ -51,9 +51,9 @@ svelte@^3.24.0:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.24.1.tgz#aca364937dd1df27fe131e2a4c234acb6061db4b"
   integrity sha512-OX/IBVUJSFo1rnznXdwf9rv6LReJ3qQ0PwRjj76vfUWyTfbHbR9OXqJBnUrpjyis2dwYcbT2Zm1DFjOOF1ZbbQ==
 
-svg-to-svelte@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-1.0.1.tgz#812346974fe00074162757e55dd9f9e62616fbb4"
-  integrity sha512-kTbTnqYoA2KrVG4EceBsy453mX55tbYOpBxO1PK6AjF4enNBvVSb66S9I6IfOavXu2LArwFfWOtQ3Ni8qA2iqQ==
+svg-to-svelte@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-1.1.0.tgz#ce8109627352113de4919e557a3c57e8eef93a07"
+  integrity sha512-ibChEOsJ9xRdJLOuE1K4zdOLCJEj9VBicwazHo+sv/vKMjC5gl/BH4nJwqrXODdeO5FTOr5pct8LltJm6YXprg==
   dependencies:
     svelte "^3.24.0"

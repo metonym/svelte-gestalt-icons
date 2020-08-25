@@ -1,6 +1,6 @@
-# docs
+# Icon Index
 
-> 170 icons from gestalt@11.5.0.
+> 170 icons from svelte-gestalt-icons@11.26.1.
 
 ## Usage
 
@@ -12,7 +12,7 @@
 <Icon />
 ```
 
-## List of icons by `ModuleName`
+## Icons by `ModuleName`
 
 - AdGroup
 - Ad
