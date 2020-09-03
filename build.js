@@ -4,11 +4,10 @@ const path = require("path");
 const pkg = require("./package.json");
 
 (async () => {
-  const {
-    moduleNames,
-  } = await generateFromFolder("node_modules/gestalt/src/icons", "lib", {
-    clean: true,
-  });
+  const { moduleNames } = await generateFromFolder(
+    "node_modules/gestalt/src/icons",
+    "lib"
+  );
 
   await generateIndex({
     moduleNames,
