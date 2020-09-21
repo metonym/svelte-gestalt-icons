@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [14.1.0](https://github.com/metonym/svelte-gestalt-icons/releases/tag/v14.1.0) - 2020-09-21
+
+- Upgrade `gestalt` to v14.1.0 (no change)
+
 ## [11.26.1](https://github.com/metonym/svelte-gestalt-icons/releases/tag/v11.26.1) - 2020-08-25
 
 - Upgrade `gestalt` to v11.26.1 (no change)
