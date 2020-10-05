@@ -7,10 +7,10 @@ classnames@^2.2.6:
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
   integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
 
-gestalt@14.4.0:
-  version "14.4.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-14.4.0.tgz#0862f79a5a564c5c16ac4dd9e0db0b63533cd2cb"
-  integrity sha512-nt/oocJtiepfRC6Rte2pbhrSsCYq5qyWqXL7yDT7O8J+2K7PM99KZCxOH2lSWMzfIKQ6qVoGxKuRkm6hw+62kw==
+gestalt@14.5.3:
+  version "14.5.3"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-14.5.3.tgz#a39dce703ab3b4d0793efb9eefc76d9b2edc1eb5"
+  integrity sha512-Pk8f7Uhbe1BFyehhx/gXVsJIxhi1s+qPGRDzz/ABSHiThTpW8qWeViEVClEj7Wf/LgnMNjU/5tY1bPo7+IbIPQ==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
