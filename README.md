@@ -10,7 +10,7 @@
 ```bash
 yarn add -D svelte-gestalt-icons
 # OR
-npm -i -D svelte-gestalt-icons
+npm i -D svelte-gestalt-icons
 ```
 
 ## Usage
