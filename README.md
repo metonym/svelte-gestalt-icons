@@ -5,6 +5,8 @@
 
 > Pinterest Gestalt SVG icons as Svelte components.
 
+## [Icon Preview](https://metonym.github.io/svelte-gestalt-icons//) · [Icon Index](./ICON_INDEX.md)
+
 ## Install
 
 ```bash
