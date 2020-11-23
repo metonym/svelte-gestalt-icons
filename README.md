@@ -15,12 +15,12 @@ npm i -D svelte-gestalt-icons
 
 ## Usage
 
-```html
+```svelte
 <script>
-  import Ad from "svelte-gestalt-icons/lib/Ad";
+  import { Add } from "svelte-gestalt-icons";
 </script>
 
-<Ad />
+<Add />
 ```
 
 Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
@@ -36,6 +36,21 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 - on:mouseenter
 - on:mouseout
 - on:keydown
+
+## Rendering icons using `svelte:component`
+
+```svelte
+<script>
+  import * as Icons from "svelte-gestalt-icons";
+</script>
+
+{#each Object.keys(Icons) as icon}
+  <div>
+    <svelte:component title="{icon}" this={Icons[icon]} />
+    {icon}
+  </div>
+{/each}
+```
 
 ## [Changelog](CHANGELOG.md)
 
