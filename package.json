@@ -9,14 +9,14 @@
   "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
-    "build": "rollup -c",
-    "deploy": "npx gh-pages -d public",
+    "predeploy": "rollup -c",
+    "deploy": "npx gh-pages -d dist",
     "prepack": "node build"
   },
   "devDependencies": {
     "gestalt": "14.30.3",
     "rollup": "^2.33.3",
-    "svelte-readme": "^0.3.1",
+    "svelte-readme": "^1.1.0",
     "svg-to-svelte": "^2.0.0"
   },
   "repository": {

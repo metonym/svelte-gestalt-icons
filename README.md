@@ -5,8 +5,6 @@
 
 > Pinterest Gestalt SVG icons as Svelte components.
 
-## [Icon Preview](https://metonym.github.io/svelte-gestalt-icons//) · [Icon Index](./ICON_INDEX.md)
-
 ## Install
 
 ```bash
@@ -43,12 +41,12 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 ```svelte
 <script>
-  import * as Icons from "svelte-gestalt-icons";
+  import * as icons from "svelte-gestalt-icons";
 </script>
 
-{#each Object.keys(Icons) as icon}
+{#each Object.keys(icons) as icon}
   <div>
-    <svelte:component title="{icon}" this={Icons[icon]} />
+    <svelte:component title="{icon}" this={icons[icon]} />
     {icon}
   </div>
 {/each}
