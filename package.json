@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "gestalt": "14.30.3",
-    "rollup": "^2.33.3",
+    "rollup": "^2.34.2",
     "svelte-readme": "^1.1.0",
     "svg-to-svelte": "^2.0.0"
   },
