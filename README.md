@@ -1,5 +1,7 @@
 # svelte-gestalt-icons
 
+<!-- REPO_URL -->
+
 [![NPM][npm]][npm-url]
 [![Build][build]][build-badge]
 
@@ -15,6 +17,7 @@ npm i -D svelte-gestalt-icons
 
 ## Usage
 
+<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import { Add } from "svelte-gestalt-icons";
@@ -22,6 +25,7 @@ npm i -D svelte-gestalt-icons
 
 <Add />
 ```
+<!-- prettier-ignore-end -->
 
 Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
@@ -39,6 +43,7 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 ## Rendering icons using `svelte:component`
 
+<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import * as icons from "svelte-gestalt-icons";
@@ -51,6 +56,7 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
   </div>
 {/each}
 ```
+<!-- prettier-ignore-end -->
 
 ## [Changelog](CHANGELOG.md)
 
