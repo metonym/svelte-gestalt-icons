@@ -1,11 +1,14 @@
 # svelte-gestalt-icons
 
-<!-- REPO_URL -->
-
 [![NPM][npm]][npm-url]
-[![Build][build]][build-badge]
 
 > Pinterest Gestalt SVG icons as Svelte components.
+
+<!-- REPO_URL -->
+
+---
+
+<!-- TOC -->
 
 ## Install
 
@@ -66,5 +69,3 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 [npm]: https://img.shields.io/npm/v/svelte-gestalt-icons.svg?color=blue
 [npm-url]: https://npmjs.com/package/svelte-gestalt-icons
-[build]: https://travis-ci.com/metonym/svelte-gestalt-icons.svg?branch=master
-[build-badge]: https://travis-ci.com/metonym/svelte-gestalt-icons
