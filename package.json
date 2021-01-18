@@ -16,7 +16,7 @@
   "devDependencies": {
     "gestalt": "16.6.1",
     "rollup": "^2.36.1",
-    "svelte-readme": "^2.2.0",
+    "svelte-readme": "^2.3.1",
     "svg-to-svelte": "^2.0.0"
   },
   "repository": {
