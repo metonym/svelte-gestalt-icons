@@ -67,5 +67,5 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-gestalt-icons.svg?color=blue
+[npm]: https://img.shields.io/npm/v/svelte-gestalt-icons.svg?color=blue&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-gestalt-icons

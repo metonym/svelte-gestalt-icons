@@ -467,10 +467,10 @@ rollup@^2.35.1:
   optionalDependencies:
     fsevents "~2.1.2"
 
-rollup@^2.36.1:
-  version "2.36.1"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-2.36.1.tgz#2174f0c25c7b400d57b05628d0e732c7ae8d2178"
-  integrity sha512-eAfqho8dyzuVvrGqpR0ITgEdq0zG2QJeWYh+HeuTbpcaXk8vNFc48B7bJa1xYosTCKx0CuW+447oQOW8HgBIZQ==
+rollup@^2.36.2:
+  version "2.36.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.36.2.tgz#883fc793c70c8481ad604f1065cd79ab0a4e9c49"
+  integrity sha512-qjjiuJKb+/8n0EZyQYVW+gFU4bNRBcZaXVzUgSVrGw0HlQBlK2aWyaOMMs1Ufic1jV69b9kW3u3i9B+hISDm3A==
   optionalDependencies:
     fsevents "~2.1.2"
 
@@ -523,10 +523,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-readme@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-2.2.0.tgz#9cd466af7e873a6eb62aa9924d051292d8ec1111"
-  integrity sha512-KeDzhpL/ayoXsEkuMieHnDIK77qYFV5w1Ok/fY4mZUPIMLc3zptLICObME4gkQ0F7hpX5oQe1cgWdTKnsv24Fg==
+svelte-readme@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-2.3.1.tgz#09c9928646ac4eb1154fdb3875888d49dde9dfb2"
+  integrity sha512-I/CsWO5trufLjt5k9h0sYhooc0Sx800xpV4rIHOP+jRmu7WzuAzROJFJBppkmo0EV7A5RBeUyJYcOyZfoxXTgw==
   dependencies:
     "@rollup/plugin-node-resolve" "^11.0.1"
     "@rollup/plugin-virtual" "^2.0.3"

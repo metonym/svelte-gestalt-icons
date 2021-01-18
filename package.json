@@ -1,6 +1,6 @@
 {
   "name": "svelte-gestalt-icons",
-  "version": "14.30.3",
+  "version": "16.6.1",
   "license": "MIT",
   "description": "Pinterest Gestalt SVG icons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
@@ -15,8 +15,8 @@
   },
   "devDependencies": {
     "gestalt": "16.6.1",
-    "rollup": "^2.36.1",
-    "svelte-readme": "^2.2.0",
+    "rollup": "^2.36.2",
+    "svelte-readme": "^2.3.1",
     "svg-to-svelte": "^2.0.0"
   },
   "repository": {

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 170 icons from svelte-gestalt-icons@16.2.2.
+> 171 icons from svelte-gestalt-icons@16.6.1.
 
 ## Usage
 
@@ -74,6 +74,7 @@
 - EllipsisCircleOutline
 - Ellipsis
 - Envelope
+- EyeHide
 - Eye
 - FaceHappy
 - FaceSad
