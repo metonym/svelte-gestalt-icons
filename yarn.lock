@@ -198,10 +198,10 @@ function-bind@^1.1.1:
   resolved "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@16.6.1:
-  version "16.6.1"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-16.6.1.tgz#0005ecd91538d9072bbcff42a9c3ac992a2ecf57"
-  integrity sha512-Lxh0ekDIiDq7/+qEhNGTx89vp0RijP6mOFu9atvEXgLD0RevU0fSNfsK75DgqGNHQXhk7IXfdl/4P6X+eKphlA==
+gestalt@16.7.1:
+  version "16.7.1"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-16.7.1.tgz#0dd57777b167910e3049873bb72b97f7c5c6ae32"
+  integrity sha512-DQcvstSkDGcArirk8YmykN3p7+DyHX65EaG6tzGm0X2IQPkcg7jnVzaPMp1rU/jMMOyshn/OlrTYRgE2Z6O5Bg==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
