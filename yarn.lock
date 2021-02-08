@@ -193,15 +193,20 @@ fsevents@~2.1.2:
   resolved "https://registry.npmjs.org/fsevents/-/fsevents-2.1.3.tgz#fb738703ae8d2f9fe900c33836ddebee8b97f23e"
   integrity sha512-Auw9a4AxqWpa9GUfj370BMPzzyncfBABW8Mab7BGWBYDj4Isgq+cDKtx0i6u9jcX9pQDnswsaaOTgTmA5pEjuQ==
 
+fsevents@~2.3.1:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
+  integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
+
 function-bind@^1.1.1:
   version "1.1.1"
   resolved "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@16.7.1:
-  version "16.7.1"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-16.7.1.tgz#0dd57777b167910e3049873bb72b97f7c5c6ae32"
-  integrity sha512-DQcvstSkDGcArirk8YmykN3p7+DyHX65EaG6tzGm0X2IQPkcg7jnVzaPMp1rU/jMMOyshn/OlrTYRgE2Z6O5Bg==
+gestalt@17.1.0:
+  version "17.1.0"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-17.1.0.tgz#cb0859ed84682f847de795cc95feb09cebf00ec5"
+  integrity sha512-VnBi6nLSONVUPmIxlb3zraFLwAFMo526cmE8e9npHb1ceQsyQja2evovP/GR+gFfGFHqyILm43qJj/p2pQcoow==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
@@ -460,12 +465,19 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.36.2, rollup@^2.38.0:
+rollup@^2.36.2:
   version "2.38.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.38.0.tgz#57942d5a10826cb12ed1f19c261f774efa502d2d"
   integrity sha512-ay9zDiNitZK/LNE/EM2+v5CZ7drkB2xyDljvb1fQJCGnq43ZWRkhxN145oV8GmoW1YNi4sA/1Jdkr2LfawJoXw==
   optionalDependencies:
     fsevents "~2.1.2"
+
+rollup@^2.38.5:
+  version "2.38.5"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.38.5.tgz#be41ad4fe0c103a8794377afceb5f22b8f603d6a"
+  integrity sha512-VoWt8DysFGDVRGWuHTqZzT02J0ASgjVq/hPs9QcBOGMd7B+jfTr/iqMVEyOi901rE3xq+Deq66GzIT1yt7sGwQ==
+  optionalDependencies:
+    fsevents "~2.3.1"
 
 safe-buffer@^5.1.0:
   version "5.2.1"
@@ -536,17 +548,17 @@ svelte-readme@^3.0.0:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.24.0:
-  version "3.24.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.24.1.tgz#aca364937dd1df27fe131e2a4c234acb6061db4b"
-  integrity sha512-OX/IBVUJSFo1rnznXdwf9rv6LReJ3qQ0PwRjj76vfUWyTfbHbR9OXqJBnUrpjyis2dwYcbT2Zm1DFjOOF1ZbbQ==
+svelte@^3.32.1:
+  version "3.32.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.32.1.tgz#c4b6e35517d0ed77e652cc8964ef660afa2f70f3"
+  integrity sha512-j1KmD2ZOU0RGq1/STDXjwfh0/eJ/Deh2NXyuz1bpR9eOcz9yImn4CGxXdbSAN7cMTm9a7IyPUIbuBCzu/pXK0g==
 
-svg-to-svelte@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-2.0.0.tgz#0069ccd8dca85fb2fc233eac3b56c54235425c66"
-  integrity sha512-zKVAPwmZvqgu04ulR/92HILIt3LAGP+RZTGFDsqsBXEw/qABGqhQFlkmqNAtRq4iV5iVRb+O6nQX0CgoVzwatw==
+svg-to-svelte@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-2.2.0.tgz#2192cb6ad030fb942e344eaad6c8f91a2f3582aa"
+  integrity sha512-Ftc5h3S/GipgFphfHPoem0gAqoU6ppsQ3anktIXZjHck8HMPPq8UNyCbyRIDnofdiRnSQnCk1DOPJHszpTQcLg==
   dependencies:
-    svelte "^3.24.0"
+    svelte "^3.32.1"
 
 terser@^5.0.0:
   version "5.5.0"

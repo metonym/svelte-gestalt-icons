@@ -11,13 +11,13 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
-    "prepack": "node build"
+    "prepack": "s2s --input=node_modules/gestalt/src/icons"
   },
   "devDependencies": {
-    "gestalt": "16.7.1",
-    "rollup": "^2.38.0",
+    "gestalt": "17.1.0",
+    "rollup": "^2.38.5",
     "svelte-readme": "^3.0.0",
-    "svg-to-svelte": "^2.0.0"
+    "svg-to-svelte": "^2.2.0"
   },
   "repository": {
     "type": "git",
