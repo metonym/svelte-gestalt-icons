@@ -17,7 +17,7 @@
     "gestalt": "16.7.1",
     "rollup": "^2.38.0",
     "svelte-readme": "^3.0.0",
-    "svg-to-svelte": "^2.0.0"
+    "svg-to-svelte": "^2.2.0"
   },
   "repository": {
     "type": "git",
