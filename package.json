@@ -14,7 +14,7 @@
     "prepack": "node build"
   },
   "devDependencies": {
-    "gestalt": "16.7.1",
+    "gestalt": "17.1.0",
     "rollup": "^2.38.0",
     "svelte-readme": "^3.0.0",
     "svg-to-svelte": "^2.0.0"
