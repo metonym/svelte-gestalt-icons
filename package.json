@@ -14,7 +14,7 @@
     "prepack": "s2s --input=node_modules/gestalt/src/icons"
   },
   "devDependencies": {
-    "gestalt": "17.1.0",
+    "gestalt": "17.5.3",
     "rollup": "^2.38.5",
     "svelte-readme": "^3.0.0",
     "svg-to-svelte": "^2.2.0"
