@@ -23,10 +23,12 @@ npm i -D svelte-gestalt-icons
 <!-- prettier-ignore-start -->
 ```svelte
 <script>
-  import { Add } from "svelte-gestalt-icons";
+  import { Add, Sound, Tag } from "svelte-gestalt-icons";
 </script>
 
 <Add />
+<Sound />
+<Tag />
 ```
 <!-- prettier-ignore-end -->
 
@@ -60,6 +62,10 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 {/each}
 ```
 <!-- prettier-ignore-end -->
+
+## TypeScript
+
+Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 ## [Changelog](CHANGELOG.md)
 

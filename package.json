@@ -6,16 +6,19 @@
   "author": "Eric Liu (https://github.com/metonym)",
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
+  "types": "./types/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
-    "prepack": "s2s --input=node_modules/gestalt/src/icons"
+    "prepack": "s2s --input=node_modules/gestalt/src/icons",
+    "test:types": "svelte-check --workspace=tests"
   },
   "devDependencies": {
     "gestalt": "17.5.3",
     "rollup": "^2.39.0",
+    "svelte-check": "^1.1.34",
     "svelte-readme": "^3.0.0",
     "svg-to-svelte": "^2.2.0"
   },
@@ -33,6 +36,7 @@
     "svg"
   ],
   "files": [
-    "lib"
+    "lib",
+    "types"
   ]
 }
