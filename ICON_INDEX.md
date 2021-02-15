@@ -1,6 +1,6 @@
 # Icon Index
 
-> 171 icons from svelte-gestalt-icons@17.1.0.
+> 171 icons from svelte-gestalt-icons@17.5.3.
 
 ## Usage
 
