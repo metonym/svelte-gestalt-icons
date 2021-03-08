@@ -1,6 +1,6 @@
 # Icon Index
 
-> 171 icons from svelte-gestalt-icons@17.5.3.
+> 173 icons from svelte-gestalt-icons@17.5.3.
 
 ## Usage
 
@@ -101,6 +101,7 @@
 - HeartBroken
 - HeartOutline
 - Heart
+- History
 - Impressum
 - InfoCircle
 - Key
@@ -178,6 +179,7 @@
 - ViewTypeDefault
 - ViewTypeDense
 - ViewTypeList
+- Visit
 - WorkflowStatusAll
 - WorkflowStatusHalted
 - WorkflowStatusInProgress

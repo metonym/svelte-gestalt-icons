@@ -13,10 +13,10 @@
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
     "prepack": "s2s --input=node_modules/gestalt/src/icons",
-    "test:types": "svelte-check --workspace=tests"
+    "test": "svelte-check --workspace=tests"
   },
   "devDependencies": {
-    "gestalt": "17.6.2",
+    "gestalt": "19.2.2",
     "rollup": "^2.40.0",
     "svelte-check": "^1.1.36",
     "svelte-readme": "^3.0.0",
