@@ -20,17 +20,17 @@ npm i -D svelte-gestalt-icons
 
 ## Usage
 
-<!-- prettier-ignore-start -->
 ```svelte
 <script>
-  import { Add, Sound, Tag } from "svelte-gestalt-icons";
+  import { Add, Sound, Tag, History } from "svelte-gestalt-icons";
 </script>
 
 <Add />
 <Sound />
 <Tag />
+<History />
+
 ```
-<!-- prettier-ignore-end -->
 
 Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
@@ -48,7 +48,6 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 ## Rendering icons using `svelte:component`
 
-<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import * as icons from "svelte-gestalt-icons";
@@ -56,12 +55,12 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 {#each Object.keys(icons) as icon}
   <div>
-    <svelte:component title="{icon}" this={icons[icon]} />
+    <svelte:component this={icons[icon]} title={icon} />
     {icon}
   </div>
 {/each}
+
 ```
-<!-- prettier-ignore-end -->
 
 ## TypeScript
 
