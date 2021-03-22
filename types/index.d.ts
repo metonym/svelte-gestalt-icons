@@ -165,6 +165,7 @@ export { default as ViewTypeDense } from "./ViewTypeDense/ViewTypeDense";
 export { default as ViewTypeList } from "./ViewTypeList/ViewTypeList";
 export { default as Visit } from "./Visit/Visit";
 export { default as WorkflowStatusAll } from "./WorkflowStatusAll/WorkflowStatusAll";
+export { default as WorkflowStatusCanceled } from "./WorkflowStatusCanceled/WorkflowStatusCanceled";
 export { default as WorkflowStatusHalted } from "./WorkflowStatusHalted/WorkflowStatusHalted";
 export { default as WorkflowStatusInProgress } from "./WorkflowStatusInProgress/WorkflowStatusInProgress";
 export { default as WorkflowStatusOk } from "./WorkflowStatusOk/WorkflowStatusOk";

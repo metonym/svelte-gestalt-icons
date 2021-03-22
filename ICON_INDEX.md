@@ -1,6 +1,6 @@
 # Icon Index
 
-> 173 icons from svelte-gestalt-icons@19.2.2.
+> 174 icons from svelte-gestalt-icons@19.2.2.
 
 ## Usage
 
@@ -181,6 +181,7 @@
 - ViewTypeList
 - Visit
 - WorkflowStatusAll
+- WorkflowStatusCanceled
 - WorkflowStatusHalted
 - WorkflowStatusInProgress
 - WorkflowStatusOk
