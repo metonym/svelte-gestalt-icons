@@ -12,7 +12,7 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
-    "prepack": "s2s --input=node_modules/gestalt/src/icons",
+    "prepack": "s2s --input=node_modules/gestalt/src/icons && npx sveld --glob",
     "test": "svelte-check --workspace=tests"
   },
   "devDependencies": {
