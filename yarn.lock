@@ -312,10 +312,10 @@ function-bind@^1.1.1:
   resolved "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@21.17.0:
-  version "21.17.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-21.17.0.tgz#e86e60020905f4969439be2b4201430dde9e1575"
-  integrity sha512-o+NVWUOqddvd2NUOsLG8POzhsiLJbaxTUZ9YtP1oV5hgau7/2LinYvIAWDheyDfpgEAK/58uL5xUCMmBWJdbYg==
+gestalt@21.17.1:
+  version "21.17.1"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-21.17.1.tgz#f23079d6ebbcf34ed1e445a779ab6c3c94e8a746"
+  integrity sha512-KCfOdeEHxTsgSoMfOx+bYWJeHaLp52SUXWLsevZPyn1k2kbS5xugS4+6bwyg9+LHyGjAkWMegm2NK6rkLKdBgg==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
@@ -698,10 +698,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.1"
 
-rollup@^2.46.0:
-  version "2.46.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.46.0.tgz#8cacf89d2ee31a34755f1af40a665168f592b829"
-  integrity sha512-qPGoUBNl+Z8uNu0z7pD3WPTABWRbcOwIrO/5ccDJzmrtzn0LVf6Lj91+L5CcWhXl6iWf23FQ6m8Jkl2CmN1O7Q==
+rollup@^2.48.0:
+  version "2.48.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.48.0.tgz#fceb01ed771f991f29f7bd2ff7838146e55acb74"
+  integrity sha512-wl9ZSSSsi5579oscSDYSzGn092tCS076YB+TQrzsGuSfYyJeep8eEWj0eaRjuC5McuMNmcnR8icBqiE/FWNB1A==
   optionalDependencies:
     fsevents "~2.3.1"
 
@@ -761,10 +761,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.5.2.tgz#783f48a8e3b3e484b3bcfb990ff5102348c63a23"
-  integrity sha512-x9Pc13r814TKrMXY70IyqDEmPzuFiqNSpBmsrMKrFpi995MiG+lmqYnyw8iQC+DGh7H3eUt3LIFXbNd396XIFw==
+svelte-check@^1.5.4:
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.5.4.tgz#9e37a36c30dbf75caa729f507e925424c67a237b"
+  integrity sha512-0rnBT2uqgYQeVsLJYZqAjkZn0k2TiphbOv7p602QmRMPT5VqFrkAaomZm5l4K3coxGSJlC0tDEVCKCQJ6i2jqw==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
