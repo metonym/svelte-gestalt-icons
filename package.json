@@ -16,7 +16,7 @@
     "test": "svelte-check --workspace=tests"
   },
   "devDependencies": {
-    "gestalt": "21.17.1",
+    "gestalt": "22.6.1",
     "rollup": "^2.48.0",
     "svelte-check": "^1.5.4",
     "svelte-readme": "^3.1.0",
