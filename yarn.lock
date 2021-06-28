@@ -312,10 +312,10 @@ function-bind@^1.1.1:
   resolved "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@26.0.0:
-  version "26.0.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-26.0.0.tgz#f3e55dbfdd4e04a7a62a0585997939e7ca187cfa"
-  integrity sha512-KJ4prBb9eybGDiRYZexhp31L59r8P/GaIJjSG2v+C/kVNgdovahbA2JN4Pv+psbDVKzrXhCAuCk08CPY0gEpuQ==
+gestalt@27.3.3:
+  version "27.3.3"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-27.3.3.tgz#a2bc72c69da2f0163cc88b0bff9d90733acfe8fc"
+  integrity sha512-rh9TS1s9VvrqU2cSWApkFsvtn1k2zHYLhsPZfSsCtEeKsrwvRHPNqlpuMoUNYZjYm0ppHUPx7GecridsSMuonQ==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
@@ -703,10 +703,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.1"
 
-rollup@^2.52.2:
-  version "2.52.2"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.52.2.tgz#a7e90d10ddae3e8472c2857bd9f44b09ef34a47a"
-  integrity sha512-4RlFC3k2BIHlUsJ9mGd8OO+9Lm2eDF5P7+6DNQOp5sx+7N/1tFM01kELfbxlMX3MxT6owvLB1ln4S3QvvQlbUA==
+rollup@^2.52.3:
+  version "2.52.3"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.52.3.tgz#062fc3c85f67736d6758749310cfee64836c4e2a"
+  integrity sha512-QF3Sju8Kl2z0osI4unyOLyUudyhOMK6G0AeqJWgfiyigqLAlnNrfBcDWDx+f1cqn+JU2iIYVkDrgQ6/KtwEfrg==
   optionalDependencies:
     fsevents "~2.3.2"
 
