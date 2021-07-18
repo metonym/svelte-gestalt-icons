@@ -2,7 +2,7 @@
 
 [![NPM][npm]][npm-url]
 
-> Pinterest Gestalt SVG icons as Svelte components.
+> [Pinterest Gestalt SVG icons](https://github.com/pinterest/gestalt/tree/master/packages/gestalt/src/icons) as Svelte components.
 
 <!-- REPO_URL -->
 
@@ -12,11 +12,17 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/548ac952b4284fbfb2bea5f1803a
 
 <!-- TOC -->
 
-## Install
+## Installation
+
+**Yarn**
 
 ```bash
 yarn add -D svelte-gestalt-icons
-# OR
+```
+
+**NPM**
+
+```bash
 npm i -D svelte-gestalt-icons
 ```
 
