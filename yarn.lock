@@ -298,10 +298,10 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@29.3.2:
-  version "29.3.2"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-29.3.2.tgz#ea987ceebcccf08721efc7d805d454a42ac25f3d"
-  integrity sha512-Kz8lGmr3jTbXnE34clN3DsSeTvJF3lTlC3cId2uorVdNY5brivuj7gd7e5NUMgq1VcmxEXAosTJ/7wJ+qoD/iw==
+gestalt@29.5.5:
+  version "29.5.5"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-29.5.5.tgz#fe9d350ff324448057e0835f5550aac0c3433d6c"
+  integrity sha512-qmrWjm7zjayp/TGe0Q3DQ+2UNUFqM7s+r6mTcuTcdLg3va8uuCsPwW4+ZTDxW6J4KtZt9Uv3fVSNywmfTCpIFg==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
