@@ -298,10 +298,10 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@29.3.2:
-  version "29.3.2"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-29.3.2.tgz#ea987ceebcccf08721efc7d805d454a42ac25f3d"
-  integrity sha512-Kz8lGmr3jTbXnE34clN3DsSeTvJF3lTlC3cId2uorVdNY5brivuj7gd7e5NUMgq1VcmxEXAosTJ/7wJ+qoD/iw==
+gestalt@29.5.5:
+  version "29.5.5"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-29.5.5.tgz#fe9d350ff324448057e0835f5550aac0c3433d6c"
+  integrity sha512-qmrWjm7zjayp/TGe0Q3DQ+2UNUFqM7s+r6mTcuTcdLg3va8uuCsPwW4+ZTDxW6J4KtZt9Uv3fVSNywmfTCpIFg==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
@@ -673,10 +673,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.36.2, rollup@^2.53.2:
+rollup@^2.36.2:
   version "2.53.2"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.53.2.tgz#3279f9bfba1fe446585560802e418c5fbcaefa51"
   integrity sha512-1CtEYuS5CRCzFZ7SNW5528SlDlk4VDXIRGwbm/2POQxA/G4+7/crIqJwkmnj8Q/74hGx4oVlNvh4E1CJQ5hZ6w==
+  optionalDependencies:
+    fsevents "~2.3.2"
+
+rollup@^2.54.0:
+  version "2.54.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.54.0.tgz#99ea816e8e9b1c6af3ab957a4e7a8f78dbd87773"
+  integrity sha512-RHzvstAVwm9A751NxWIbGPFXs3zL4qe/eYg+N7WwGtIXVLy1cK64MiU37+hXeFm1jqipK6DGgMi6Z2hhPuCC3A==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -763,10 +770,10 @@ svelte-preprocess@^4.0.0:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte-readme@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.1.0.tgz#08455bfceb35669d52d6a014a29695db989e9f45"
-  integrity sha512-fNf8b2T5LfWFWayYSvo04oq/44f9CLTM74buIey5WhgVjPy/ve7Z9HtwVX2JtvzxUykAYe9VdSZaEtNuzJITkA==
+svelte-readme@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.2.0.tgz#f54260a263890107e42e308b1b8a710abd344f30"
+  integrity sha512-DHaNbX0dVp13/K3Vl40ANErxNH7pE5T9N/TbVJhksdK1Ie0yLK04J6W41V//8iep6eIyFMUsCewdVeMmTwfxDg==
   dependencies:
     "@rollup/plugin-node-resolve" "^11.1.0"
     "@rollup/plugin-virtual" "^2.0.3"
@@ -788,10 +795,10 @@ svelte@^3.32.1:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.38.3.tgz#e15a1da98ee4b10162a6c8cb4c80aa86b2b589ed"
   integrity sha512-N7bBZJH0iF24wsalFZF+fVYMUOigaAUQMIcEKHO3jstK/iL8VmP9xE+P0/a76+FkNcWt+TDv2Gx1taUoUscrvw==
 
-svg-to-svelte@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-2.2.0.tgz#2192cb6ad030fb942e344eaad6c8f91a2f3582aa"
-  integrity sha512-Ftc5h3S/GipgFphfHPoem0gAqoU6ppsQ3anktIXZjHck8HMPPq8UNyCbyRIDnofdiRnSQnCk1DOPJHszpTQcLg==
+svg-to-svelte@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-2.2.1.tgz#6dfab0af1b2eaf689fb182f73ec7831ce375bb4c"
+  integrity sha512-FixujLhaXhCKnFkOkqwYkO+QQHMLDrlAb4aCRJbucpkkVvRoA1Iml+Wvy0TNax1ljIAAkFjhmtxNHmGeWjT3VA==
   dependencies:
     svelte "^3.32.1"
 
