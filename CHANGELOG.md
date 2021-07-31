@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [22.0.0](https://github.com/metonym/svelte-gestalt-icons/releases/tag/v22.0.0) - 2021-07-31
+
+- Svelte SVG files and TypeScript definitions are placed directly in the `lib` folder
+
 ## [21.0.2](https://github.com/metonym/svelte-gestalt-icons/releases/tag/v21.0.2) - 2021-07-26
 
 - Patch `svg-to-svelte` to version 2.2.1 to ignore `a11y-mouse-events-have-key-events` warnings
