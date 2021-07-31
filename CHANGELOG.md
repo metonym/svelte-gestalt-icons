@@ -7,7 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [22.0.0](https://github.com/metonym/svelte-gestalt-icons/releases/tag/v22.0.0) - 2021-07-31
 
+**Breaking Changes**
+
 - Svelte SVG files and TypeScript definitions are placed directly in the `lib` folder
+- Generated Svelte components no longer forward events
 
 ## [21.0.2](https://github.com/metonym/svelte-gestalt-icons/releases/tag/v21.0.2) - 2021-07-26
 
