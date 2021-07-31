@@ -12,7 +12,7 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "gh-pages -d dist",
-    "prepack": "svelvg glob=gestalt/src/icons",
+    "prepack": "svelvg glob=gestalt/src/icons iconIndex=true",
     "test": "svelte-check --workspace=test"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
     "svelte": "^3.41.0",
     "svelte-check": "^2.2.3",
     "svelte-readme": "^3.2.0",
-    "svelvg": "^0.1.1"
+    "svelvg": "^0.2.0"
   },
   "repository": {
     "type": "git",

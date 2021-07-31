@@ -984,10 +984,10 @@ svelte@^3.41.0:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.41.0.tgz#2009fd6681453ffb8b5aaa57f4a89a8be3dedd78"
   integrity sha512-X9/lnTcRBCrMdyFBVjfmqy1T2vyN8ejUE1OfbWSccc2Z42Amn3ab3XdBgVl+oDkZvzPfPMoxo6CEbWca7pXOew==
 
-svelvg@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.1.1.tgz#9a34766ac2d7b4b59687a8260c724f5176ada951"
-  integrity sha512-1dnc5k5R7h2lqAuT6dQVtyxwF9f65DQDfUn3YgJT5Ki3uo3ML5hRqr4unPjumLY3u4eXUZ16a4gi4bAFHCwAAw==
+svelvg@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.2.0.tgz#d6ba49bb52b09dc2eadd0bef052dc0e3f6cdc33b"
+  integrity sha512-S61AxoMcazeEpvROtScU+K8qjqKzr4VitimwYWG0AQgJReZJXbYExRqrgJZN9spGhYylZMNkuawR1BnElXH8yw==
   dependencies:
     svelte "^3.41.0"
     tiny-glob "^0.2.9"

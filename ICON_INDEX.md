@@ -1,18 +1,8 @@
 # Icon Index
 
-> 174 icons from svelte-gestalt-icons@21.0.1.
+> 174 total icons
 
-## Usage
-
-```html
-<script>
-  import Icon from "svelte-gestalt-icons/lib/{ModuleName}";
-</script>
-
-<Icon />
-```
-
-## Icons by `ModuleName`
+## Icons
 
 - AdGroup
 - Ad
@@ -188,3 +178,4 @@
 - WorkflowStatusProblem
 - WorkflowStatusUnstarted
 - WorkflowStatusWarning
+
