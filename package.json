@@ -19,7 +19,7 @@
     "gestalt": "^29.6.2",
     "gh-pages": "^3.2.3",
     "rollup": "^2.55.1",
-    "svelte": "^3.41.0",
+    "svelte": "^3.42.1",
     "svelte-check": "^2.2.3",
     "svelte-readme": "^3.2.0",
     "svelvg": "^0.3.0"
