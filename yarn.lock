@@ -367,12 +367,18 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gestalt@^30.1.0:
-  version "30.1.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-30.1.0.tgz#34cc19a8f80658661786b169605d8be117806c77"
-  integrity sha512-hjAyypwT9XhRjiEbk0+AqHhm+OK+kfeUJ7jIWdyPP9PxcQbeep3vAxGaitbqskQrrjQ/FuGIIzDHzxOZ4RUQBw==
+gestalt-design-tokens@>0.0.0:
+  version "31.4.0"
+  resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
+  integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
+
+gestalt@^31.4.0:
+  version "31.4.0"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-31.4.0.tgz#b491c02b7ad4e6095464a7f202871045e5ebf980"
+  integrity sha512-k8CwWxbLnNZ+5jnujnPQpy0PV1//ODKLAyCjSBFhVovBb/sVkRc1h3QywDDparVSRSl0L1Zn/vmnxmQ84fn2cw==
   dependencies:
     classnames "^2.2.6"
+    gestalt-design-tokens ">0.0.0"
     prop-types "^15.7.2"
 
 gh-pages@^3.2.3:
@@ -857,10 +863,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^2.56.1:
-  version "2.56.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.56.1.tgz#f29dbc04a5d532dfa904f76b62395f359506211e"
-  integrity sha512-KkrsNjeiTfGJMUFBi/PNfj3fnt70akqdoNXOjlzwo98uA1qrlkmgt6SGaK5OwhyDYCVnJb6jb2Xa2wbI47P4Nw==
+rollup@^2.56.2:
+  version "2.56.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.56.2.tgz#a045ff3f6af53ee009b5f5016ca3da0329e5470f"
+  integrity sha512-s8H00ZsRi29M2/lGdm1u8DJpJ9ML8SUOpVVBd33XNeEeL3NVaTiUcSBHzBdF3eAyR0l7VSpsuoVUGrRHq7aPwQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
