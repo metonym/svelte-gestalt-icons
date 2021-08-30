@@ -21,7 +21,7 @@
     "rollup": "^2.56.3",
     "svelte": "^3.42.2",
     "svelte-check": "^2.2.4",
-    "svelte-readme": "^3.2.0",
+    "svelte-readme": "^3.3.1",
     "svelvg": "^0.3.1"
   },
   "repository": {
