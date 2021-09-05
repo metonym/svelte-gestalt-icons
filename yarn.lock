@@ -372,10 +372,10 @@ gestalt-design-tokens@>0.0.0:
   resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
   integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
 
-gestalt@^33.2.1:
-  version "33.2.1"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-33.2.1.tgz#8270e02da1da10e878a80d23c96bdfebe99f6686"
-  integrity sha512-e+W9+V/lYXarukm6NuZ+KmcUxREtXYduSkYwyTOETTUkEuJ+qHSFgMFpUEkNqlbrQsfvLMjqb9lSw1RkMy1ysQ==
+gestalt@^33.10.1:
+  version "33.10.1"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-33.10.1.tgz#0d521c6675fd4e54d5b756b854282354429e28ef"
+  integrity sha512-unLTvkShNdKibWSddUNkuTZp7d7P5/pig/PKVCaDb4aTVq+PqRqhe+MJ/43vE8D2K9WKy7vsjZM+CyAoDRAsgw==
   dependencies:
     classnames "^2.2.6"
     gestalt-design-tokens ">0.0.0"
@@ -940,10 +940,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.4.tgz#103140eeb4bbe65721e023ab210566041abe7224"
-  integrity sha512-eGEuZ3UEanOhlpQhICLjKejDxcZ9uYJlGnBGKAPW7uugolaBE6HpEBIiKFZN/TMRFFHQUURgGvsVn8/HJUBfeQ==
+svelte-check@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.5.tgz#fc3d99494b38478dde6ba2060e8cbf5297e2025a"
+  integrity sha512-EstDoqxjqWStWELh7Z0qytqUDl/ikdNEr21dveNc4fUDnhnqO2F2jHEufqoNnC3GfBji3GIUHvoXsp/I5lMbCg==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
@@ -965,10 +965,10 @@ svelte-preprocess@^4.0.0:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte-readme@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.2.0.tgz#f54260a263890107e42e308b1b8a710abd344f30"
-  integrity sha512-DHaNbX0dVp13/K3Vl40ANErxNH7pE5T9N/TbVJhksdK1Ie0yLK04J6W41V//8iep6eIyFMUsCewdVeMmTwfxDg==
+svelte-readme@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.3.1.tgz#b968c11d5c3eeb0983d1e6aa30b4adc6f4b3d5c0"
+  integrity sha512-lNHP6ZesEt5cW7PQB35uSfGWIiZ33MhUXQWhd1KEP645b0LzIWUSM3Oz2Fp81xngKlvRo4sIHTIeVM1CiJsmfw==
   dependencies:
     "@rollup/plugin-node-resolve" "^11.1.0"
     "@rollup/plugin-virtual" "^2.0.3"
@@ -990,15 +990,15 @@ svelte@^3.42.1:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.1.tgz#d4b4d9068cce911835f7c6b8ff1d290e1a0b5657"
   integrity sha512-XtExLd2JAU3T7M2g/DkO3UNj/3n1WdTXrfL63OZ5nZq7nAqd9wQw+lR4Pv/wkVbrWbAIPfLDX47UjFdmnY+YtQ==
 
-svelte@^3.42.2:
-  version "3.42.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.2.tgz#0246c175c820c1aeca07300c48573a15aae3c1e4"
-  integrity sha512-FOyNYKXb8wdE0Ot+Ctt2/OyDLsNBP8+V6PUE9ag6ZKeLslIou0LnMu1fhtWUA+HjzKTbAM1yj+4PFLtg/3pMJA==
+svelte@^3.42.4:
+  version "3.42.4"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
+  integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
-svelvg@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.3.1.tgz#d5af89e8c9d695612152bffb70e454a0683801a6"
-  integrity sha512-hOjS2pMQe/W3bD8LMqlY8E4UV3vuxndPnM4g8gDhGuR5Sqh0sQGSwtmhsvVGuPNaBTWmJfZjOcew46aE3wOfmA==
+svelvg@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.5.0.tgz#f499088f447151d6d7756713c9569c7c9841d85b"
+  integrity sha512-BfTmwhYjRM8R8vgjkJtPjZuvJJXbTCuALhTI/oraD0GrdEhh/GpXRwJuN+KfCDyhdj9T4krZ7OeOYvX2elQkdw==
   dependencies:
     svelte "^3.42.1"
     tiny-glob "^0.2.9"
