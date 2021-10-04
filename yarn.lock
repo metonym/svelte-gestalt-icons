@@ -411,10 +411,10 @@ gestalt-design-tokens@>0.0.0:
   resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
   integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
 
-gestalt@^35.3.0:
-  version "35.3.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-35.3.0.tgz#b58ead47187e25212d0c11bf0e3f65336edea5b1"
-  integrity sha512-sgEfyNVOUevRiFWCcfX1pS4+gDUM4mZWZLMoM2iENBiC60D16QkIZxf2x8UU580JS7bcG0eNASEGRHjny17v6Q==
+gestalt@^36.0.7:
+  version "36.0.7"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-36.0.7.tgz#5debf8cda0726509700a64a6391a4dacd69cdc9b"
+  integrity sha512-46EpJcTk+irNFHA/S6ZLQlEsjnmyd6lLvGzfQbu24XgEDe813ES1dLuv3jtl8C94WJSX6Eh1x0Izpaw1OmQgog==
   dependencies:
     classnames "^2.2.6"
     gestalt-design-tokens ">0.0.0"
@@ -925,10 +925,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^2.57.0:
-  version "2.57.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.57.0.tgz#c1694475eb22e1022477c0f4635fd0ac80713173"
-  integrity sha512-bKQIh1rWKofRee6mv8SrF2HdP6pea5QkwBZSMImJysFj39gQuiV8MEPBjXOCpzk3wSYp63M2v2wkWBmFC8O/rg==
+rollup@^2.58.0:
+  version "2.58.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.58.0.tgz#a643983365e7bf7f5b7c62a8331b983b7c4c67fb"
+  integrity sha512-NOXpusKnaRpbS7ZVSzcEXqxcLDOagN6iFS8p45RkoiMqPHDLwJm758UF05KlMoCRbLBTZsPOIa887gZJ1AiXvw==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -1059,10 +1059,10 @@ svelte@^3.42.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.6.tgz#45a534d76fcdb551a2f23abf2cfee648fa248d03"
   integrity sha512-lAcryr9Do2PeGtbodspX5I4kWj4yWYAa2WGpDCwzNkP3y8WZTxigMd4/TMO1rBZEOkMYGn4ZXrbAlSEGhK6q3w==
 
-svelte@^3.43.0:
-  version "3.43.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.43.0.tgz#d28d06ec523bf0cea3de15558a3241c339a85762"
-  integrity sha512-T2pMPHrxXp+SM8pLLUXLQgkdo+JhTls7aqj9cD7z8wT2ccP+OrCAmtQS7h6pvMjitaZhXFNnCK582NxDpy8HSw==
+svelte@^3.43.1:
+  version "3.43.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.43.1.tgz#8370c08a970bcc1c118baaa86a38fae82e0a8396"
+  integrity sha512-nvPIaKx4HLzYlSdquISZpgG1Kqr2VAWQjZOt3Iwm3UhbqmA0LnSx4k1YpRMEhjQYW3ZCqQoK8Egto9tv4YewMA==
 
 svelvg@^0.7.0:
   version "0.7.0"
