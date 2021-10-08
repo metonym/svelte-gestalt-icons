@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: svelte-gestalt-icons
+    env: static
+    buildCommands: yarn; yarn prepack; yarn predeploy
+    staticPublishPaths: dist
