@@ -26,6 +26,12 @@ yarn add -D svelte-gestalt-icons
 npm i -D svelte-gestalt-icons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-gestalt-icons
+```
+
 ## Usage
 
 ### Basic
@@ -55,7 +61,7 @@ Use the direct import for faster compiling during development.
 </script>
 ```
 
-## Rendering icons using `svelte:component`
+## Using `svelte:component`
 
 ```svelte
 <script>
