@@ -16,7 +16,7 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "gestalt": "^38.1.3",
+    "gestalt": "^39.1.0",
     "gh-pages": "^3.2.3",
     "rollup": "^2.58.3",
     "svelte": "^3.44.0",
