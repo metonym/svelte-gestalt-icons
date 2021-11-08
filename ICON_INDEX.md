@@ -92,6 +92,7 @@
 - HeartOutline
 - Heart
 - History
+- IdeaPin
 - Impressum
 - InfoCircle
 - Key
@@ -147,7 +148,6 @@
 - Speech
 - StarHalf
 - Star
-- StoryPin
 - SwitchAccount
 - Tag
 - Terms
