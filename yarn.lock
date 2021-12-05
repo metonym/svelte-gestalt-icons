@@ -411,10 +411,10 @@ gestalt-design-tokens@>0.0.0:
   resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
   integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
 
-gestalt@^40.1.2:
-  version "40.1.2"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-40.1.2.tgz#824fce1604baeb116b149a2ea8bf99ee4dd286c3"
-  integrity sha512-F4zugSU5ngYfAsyd7x1Pxu7lt8/pYLm1o9wbTTcFq5e2GrGakeFoQe+EIc5K1tf/GI3p8K0pay/MSJToTFygfQ==
+gestalt@^40.2.2:
+  version "40.2.2"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-40.2.2.tgz#676cd0ffc009144c183ace24c5e47c8c740e41df"
+  integrity sha512-DSLtsY0UAg/ie2QM08/0pmWDIuz/nQnt9YuZQajF8uuNShpC3aIbl6gjsPoX6E98SdJVlG7hLzG53mWY/3BNnQ==
   dependencies:
     classnames "^2.2.6"
     gestalt-design-tokens ">0.0.0"
@@ -903,10 +903,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^2.60.1:
-  version "2.60.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.60.1.tgz#4b34cd247f09b421f10a3c9286eda2ecf9972079"
-  integrity sha512-akwfnpjY0rXEDSn1UTVfKXJhPsEBu+imi1gqBA1ZkHGydUnkV/fWCC90P7rDaLEW8KTwBcS1G3N4893Ndz+jwg==
+rollup@^2.60.2:
+  version "2.60.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.60.2.tgz#3f45ace36a9b10b4297181831ea0719922513463"
+  integrity sha512-1Bgjpq61sPjgoZzuiDSGvbI1tD91giZABgjCQBKM5aYLnzjq52GoDuWVwT/cm/MCxCMPU8gqQvkj8doQ5C8Oqw==
   optionalDependencies:
     fsevents "~2.3.2"
 
