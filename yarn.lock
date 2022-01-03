@@ -647,10 +647,10 @@ markdown-it-anchor@^6.0.1:
   resolved "https://registry.yarnpkg.com/markdown-it-anchor/-/markdown-it-anchor-6.0.1.tgz#f54b78757d0b61455faf8ced775b39498bd6d6f9"
   integrity sha512-8qX4r5R6AtXla9HKCouEQ40inw69O5jR4VUXlZySsBLxIXlsJ3Yi9JV6JWPU4ZdA8jWTGDDJjJYNLwQ0W4jCag==
 
-markdown-it@^12.0.4:
-  version "12.1.0"
-  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.1.0.tgz#7ad572caddd336bd27a68d20e86bac1fafe8fb20"
-  integrity sha512-7temG6IFOOxfU0SgzhqR+vr2diuMhyO5uUIEZ3C5NbXhqC9uFUHoU41USYuDFoZRsaY7BEIEei874Z20VMLF6A==
+markdown-it@^12.3.0:
+  version "12.3.0"
+  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.3.0.tgz#11490c61b412b8f41530319c005ecdcd4367171f"
+  integrity sha512-T345UZZ6ejQWTjG6PSEHplzNy5m4kF6zvUpHVDv8Snl/pEU0OxIK0jGg8YLVNwJvT8E0YJC7/2UvssJDk/wQCQ==
   dependencies:
     argparse "^2.0.1"
     entities "~2.1.0"
@@ -804,15 +804,15 @@ pkg-dir@^4.1.0:
   dependencies:
     find-up "^4.0.0"
 
-prettier-plugin-svelte@^2.1.0:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.3.1.tgz#926184a490549688dbea0a8d61c1b1ae20218368"
-  integrity sha512-F1/r6OYoBq8Zgurhs1MN25tdrhPw0JW5JjioPRqpxbYdmrZ3gY/DzHGs0B6zwd4DLyRsfGB2gqhxUCbHt/D1fw==
+prettier-plugin-svelte@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.5.1.tgz#6c2f5e7fbe2aa208b340b75edc4fdfda33fb254c"
+  integrity sha512-IhZUcqr7Bg4LY15d87t9lDr7EyC0IPehkzH5ya5igG8zYwf3UYaYDFnVW2mckREaZyLREcH9YOouesmt4f5Ozg==
 
-prettier@^2.2.1:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.2.tgz#ef280a05ec253712e486233db5c6f23441e7342d"
-  integrity sha512-lnJzDfJ66zkMy58OL5/NY5zp70S7Nz6KqcKkXYzn2tMVrNxvbqaBpg7H3qHaLxCJ5lNMsGuM8+ohS7cZrthdLQ==
+prettier@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
+  integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
 prism-svelte@^0.4.7:
   version "0.4.7"
@@ -896,7 +896,7 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.36.2, rollup@^2.62.0:
+rollup@^2.62.0:
   version "2.62.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.62.0.tgz#9e640b419fc5b9e0241844f6d55258bd79986ecc"
   integrity sha512-cJEQq2gwB0GWMD3rYImefQTSjrPYaC6s4J9pYqnstVLJ1CHa/aZNVkD4Epuvg4iLeMA4KRiq7UM7awKK6j7jcw==
@@ -1005,23 +1005,23 @@ svelte-preprocess@^4.0.0:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte-readme@^3.6.1:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.6.1.tgz#31afefd9664590f08695ed9f4fed2918bd168acd"
-  integrity sha512-HIxsMTUOWdDQLE0GQa7vlUvO5TI9G+Uq6Du8fghxaoNKhBrdjzvs9G3fJ8sUh50g+oSqM/QmUbCCJC7LCrTd3w==
+svelte-readme@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.6.2.tgz#3803c34a16011e844d2849b62108b927db010501"
+  integrity sha512-9bioGheQBbrVxR8ntJSIVDZAIUx6/v8LSZMR4qtYaFN4svNN9JrW30s0vjdX4zmJ4AufbaSTtTsis3XXNh/lNQ==
   dependencies:
     "@rollup/plugin-node-resolve" "^11.1.0"
     "@rollup/plugin-virtual" "^2.0.3"
     fs-extra "^9.0.1"
     html-minifier "^4.0.0"
     is-relative-url "^3.0.0"
-    markdown-it "^12.0.4"
+    markdown-it "^12.3.0"
     markdown-it-anchor "^6.0.1"
-    prettier "^2.2.1"
-    prettier-plugin-svelte "^2.1.0"
+    prettier "^2.5.1"
+    prettier-plugin-svelte "^2.5.1"
     prism-svelte "^0.4.7"
     prismjs "^1.23.0"
-    rollup "^2.36.2"
+    rollup "^2.62.0"
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
