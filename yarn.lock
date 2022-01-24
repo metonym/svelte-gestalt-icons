@@ -384,10 +384,10 @@ gestalt-design-tokens@>0.0.0:
   resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
   integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
 
-gestalt@41.3.0:
-  version "41.3.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-41.3.0.tgz#5b99ea1a09c6ee236faa517b31220a2b44798976"
-  integrity sha512-viVfXUhp1/G5DyXdFZlkXN4jAughZBfxlGP59I6vzFkAGHspyEbXMt3g0fe7oMcnEFwYLwMHlrMOJ81QgwlcVw==
+gestalt@42.1.0:
+  version "42.1.0"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-42.1.0.tgz#6dea80a51a860cc44a7d422e8b6aa259de1ec56f"
+  integrity sha512-MO8w8B79UOvRPCrRKn7NEyreS99GNMAN98JKMGvmuwlo/6mZG4Tj2Uvf+J1VkbfRgEYimE3WP+kwPd6wPhm9yA==
   dependencies:
     classnames "^2.2.6"
     gestalt-design-tokens ">0.0.0"
