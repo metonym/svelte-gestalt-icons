@@ -384,10 +384,10 @@ gestalt-design-tokens@>0.0.0:
   resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
   integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
 
-gestalt@42.1.0:
-  version "42.1.0"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-42.1.0.tgz#6dea80a51a860cc44a7d422e8b6aa259de1ec56f"
-  integrity sha512-MO8w8B79UOvRPCrRKn7NEyreS99GNMAN98JKMGvmuwlo/6mZG4Tj2Uvf+J1VkbfRgEYimE3WP+kwPd6wPhm9yA==
+gestalt@42.3.5:
+  version "42.3.5"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-42.3.5.tgz#c3f249f53a4c724777abf45f69bfed1f2d520656"
+  integrity sha512-mZzqkZZFybHWhBiyODUGKBNKrutTme51M8zy7ciwSUnxe+ffbgBwjQFb8oVQMVpSWv+TAazjwFq489hYz3Obfw==
   dependencies:
     classnames "^2.2.6"
     gestalt-design-tokens ">0.0.0"
@@ -881,10 +881,10 @@ rollup@^2.62.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^2.66.0:
-  version "2.66.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.66.0.tgz#ee529ea15a20485d579039637fec3050bad03bbb"
-  integrity sha512-L6mKOkdyP8HK5kKJXaiWG7KZDumPJjuo1P+cfyHOJPNNTK3Moe7zCH5+fy7v8pVmHXtlxorzaBjvkBMB23s98g==
+rollup@^2.66.1:
+  version "2.66.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.66.1.tgz#366b0404de353c4331d538c3ad2963934fcb4937"
+  integrity sha512-crSgLhSkLMnKr4s9iZ/1qJCplgAgrRY+igWv8KhG/AjKOJ0YX/WpmANyn8oxrw+zenF3BXWDLa7Xl/QZISH+7w==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -965,10 +965,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.3.0.tgz#3969e3c0655427d79f6251c1f9c05896eb07cf59"
-  integrity sha512-SBKdJyUmxzPmJf/ZPqDSQOoa9JzOcgEpV7u3UaYcgVn7fA0veZ3FA5JgLU8KYtf84Gp6guBVcrC7XKLjJa5SXQ==
+svelte-check@^2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.4.1.tgz#e1e8d813bf7906a5ee84dfe437da6f128a218434"
+  integrity sha512-xhf3ShP5rnRwBokrgTBJ/0cO9QIc1DAVu1NWNRTfCDsDBNjGmkS3HgitgUadRuoMKj1+irZR/yHJ+Uqobnkbrw==
   dependencies:
     chokidar "^3.4.1"
     fast-glob "^3.2.7"
@@ -1015,10 +1015,10 @@ svelte@^3.44.3:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.3.tgz#795b1ced6ed3da44969099e5061b850c93c95e9a"
   integrity sha512-aGgrNCip5PQFNfq9e9tmm7EYxWLVHoFsEsmKrtOeRD8dmoGDdyTQ+21xd7qgFd8MNdKGSYvg7F9dr+Tc0yDymg==
 
-svelte@^3.46.2:
-  version "3.46.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.2.tgz#f0ffbffaea3a9a760edcbefc0902b41998a686ad"
-  integrity sha512-RXSAtYNefe01Sb1lXtZ2I+gzn3t/h/59hoaRNeRrm8IkMIu6BSiAkbpi41xb+C44x54YKnbk9+dtfs3pM4hECA==
+svelte@^3.46.3:
+  version "3.46.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.3.tgz#31202b0c795f276726d95b648b6dd413116257ac"
+  integrity sha512-mTOXvv74CVQqJHqoIZDprVfRKVVmYNadXP0VKnOEA54223kLGCr1nMrifS4Zx29qMt/xRB38Eq1D7dDH/fM8fQ==
 
 svelvg@^0.8.4:
   version "0.8.4"
