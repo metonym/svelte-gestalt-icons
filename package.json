@@ -16,13 +16,13 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "gestalt": "45.4.3",
+    "gestalt": "45.5.5",
     "gh-pages": "^3.2.3",
-    "rollup": "^2.67.2",
+    "rollup": "^2.67.3",
     "svelte": "^3.46.4",
-    "svelte-check": "^2.4.3",
+    "svelte-check": "^2.4.5",
     "svelte-readme": "^3.6.2",
-    "svelvg": "^0.8.4"
+    "svelvg": "^0.9.0"
   },
   "repository": {
     "type": "git",
