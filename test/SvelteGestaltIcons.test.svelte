@@ -6,7 +6,7 @@
 </script>
 
 <!-- svelte-ignore missing-declaration -->
-<Add />
+<Add fill="red" />
 <!-- svelte-ignore missing-declaration -->
 <Sound />
 <!-- svelte-ignore missing-declaration -->

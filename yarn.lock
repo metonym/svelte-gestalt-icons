@@ -384,10 +384,10 @@ gestalt-design-tokens@>0.0.0:
   resolved "https://registry.yarnpkg.com/gestalt-design-tokens/-/gestalt-design-tokens-31.4.0.tgz#de039efa7870545a3ffe8f0eda0ec8d1172debd3"
   integrity sha512-bvYK+/HXW5UOtKrWNPMsBgflIrROjIz6zUz0AB8f6QR7tPKsBD7UVfJf1d0OmuOwT4/PhJ2CdPEJbFTIG9XJOg==
 
-gestalt@46.7.10:
-  version "46.7.10"
-  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-46.7.10.tgz#3d6b3b16a8d4b3a550b0827381691ba905b7603f"
-  integrity sha512-WgzVm3qsf4DSjKNntUHGcN6352LN0sRgD3WjpBiU8eoWlUR9eqI1NHq10Tqd5OjMp7Gh66e77ak7VKI9aMRITA==
+gestalt@47.1.5:
+  version "47.1.5"
+  resolved "https://registry.yarnpkg.com/gestalt/-/gestalt-47.1.5.tgz#7ce8c4974bf5b0045d6e95dda6e605d53a0c5c9c"
+  integrity sha512-6RpDFSk9qZ2MDQTwKdbVR8uVRanJBu3Z/wwAIyv9bp1vfg/5AM0gHsQfWVmQjVKFLTkwlOitgJ9HYLWX9q6hvw==
   dependencies:
     classnames "^2.2.6"
     gestalt-design-tokens ">0.0.0"
@@ -1015,10 +1015,15 @@ svelte@^3.46.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.4.tgz#0c46bc4a3e20a2617a1b7dc43a722f9d6c084a38"
   integrity sha512-qKJzw6DpA33CIa+C/rGp4AUdSfii0DOTCzj/2YpSKKayw5WGSS624Et9L1nU1k2OVRS9vaENQXp2CVZNU+xvIg==
 
-svelvg@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.10.0.tgz#8d903ba0f58384013d64ff0cb58b10d53217507e"
-  integrity sha512-bfIHyMvHHllVCY2fSA08bZLewYQKIwJanb5iORlQ9w+kqGaThHhBPPXvPXkVPc10xX0yXETCXzpZwQSQQIubTg==
+svelte@^3.46.6:
+  version "3.46.6"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.6.tgz#23046a361ba5f8bafcc9cf9f6fca6d011fb005a7"
+  integrity sha512-o9nNft/OzCz/9kJpmWa1S52GAM+huCjPIsNWydYmgei74ZWlOA9/hN9+Z12INdklghu31seEXZMRHhS1+8DETw==
+
+svelvg@^0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.10.1.tgz#0f8f7d87b9491ec3ab8f3e55621af05687a88c92"
+  integrity sha512-0bh6/Njm3v2JhteoNsiOj2Q9jy2SJYEdmH9CTUvA5fOtJ5ufxzJ3xwIFH+JB8OIr9FTCzLMb9x3DwiG+kp9U4g==
   dependencies:
     svelte "^3.46.4"
     tiny-glob "^0.2.9"
