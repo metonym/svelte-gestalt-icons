@@ -14,21 +14,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/548ac952b4284fbfb2bea5f1803a
 
 ## Installation
 
-**Yarn**
-
-```bash
+```sh
+# Yarn
 yarn add -D svelte-gestalt-icons
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-gestalt-icons
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-gestalt-icons
 ```
 
@@ -47,13 +40,11 @@ pnpm i -D svelte-gestalt-icons
 <History />
 ```
 
-Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
+See [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
-### Direct import
+### Direct import (recommended)
 
-Use the direct import for faster compiling during development.
-
-**Note:** even if using base imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
+Import the icon directly for faster compiling during development.
 
 ```html
 <script>
