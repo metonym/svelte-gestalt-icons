@@ -7,7 +7,6 @@
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
