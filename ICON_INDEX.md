@@ -1,6 +1,6 @@
 # Icon Index
 
-> 174 total icons
+> 177 total icons
 
 ## Icons
 
@@ -41,6 +41,7 @@
 - Camera
 - Cancel
 - CanonicalPin
+- Captions
 - CheckCircle
 - Check
 - CircleOutline
@@ -113,6 +114,8 @@
 - Menu
 - Minimize
 - Move
+- MusicOff
+- MusicOn
 - Mute
 - OverlayText
 - Pause
