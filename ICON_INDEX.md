@@ -1,6 +1,6 @@
 # Icon Index
 
-> 177 total icons
+> 179 total icons
 
 ## Icons
 
@@ -93,6 +93,7 @@
 - HeartOutline
 - Heart
 - History
+- Home
 - IdeaPin
 - Impressum
 - InfoCircle
@@ -125,6 +126,7 @@
 - Phone
 - PinHide
 - Pin
+- Pincode
 - Pinterest
 - Play
 - Protect

@@ -14,10 +14,10 @@
     "prepack": "svelvg glob=gestalt/src/icons iconIndex"
   },
   "devDependencies": {
-    "gestalt": "62.0.6",
+    "gestalt": "71.0.9",
     "gh-pages": "^4.0.0",
-    "rollup": "^2.77.0",
-    "svelte": "^3.49.0",
+    "rollup": "^2.79.0",
+    "svelte": "^3.50.0",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.11.2"
   },
